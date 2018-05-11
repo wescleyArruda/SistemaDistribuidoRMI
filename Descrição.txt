@@ -1,0 +1,8 @@
+Serviço de cadastro de produtos usando RMI
+A aplicação cliente deve ser capaz de realizar as seguintes operações:
+1. cadastrar um produto
+2. alterar as informações de um produto
+3. deletar um produto
+4. recuperar as informações de um produto cadastrado
+Os dados são armazenados no Servidor.
+O cliente utiliza métodos em RMI para se conectar no servidor e efetuar as operações.
